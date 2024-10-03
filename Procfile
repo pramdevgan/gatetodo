@@ -1,0 +1,1 @@
+web: gunicorn gateToDo.wsgi
